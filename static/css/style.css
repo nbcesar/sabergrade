@@ -1,0 +1,12 @@
+.gridStyle {
+    border: 1px solid rgb(212,212,212);
+    width: 400px; 
+    height: 300px
+}
+
+
+/* Grid Forms */
+.number {
+	width: 100px;
+	background-color: yellow;
+}
